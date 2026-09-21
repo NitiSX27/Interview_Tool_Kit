@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-01",
+    "jd": "Senior Backend Engineer\n\nWe are looking for a Senior Backend Engineer to join our platform team.\n\nRequirements:\n- 5+ years experience with Node.js\n- Strong knowledge of REST API design\n- Experience with MongoDB or PostgreSQL\n- Familiarity with Docker and Kubernetes\n- Strong communication and collaboration skills\n- Experience mentoring junior developers\n\nNice to have:\n- Experience with GraphQL\n- Familiarity with AWS or GCP",
+    "company_url": "https://gitlab.com",
+    "days": 5
+  },
+  {
+    "id": "case-02",
+    "jd": "Frontend Developer\n\nLooking for someone to join our team.",
+    "company_url": "https://posthog.com",
+    "days": 3
+  }
+]
